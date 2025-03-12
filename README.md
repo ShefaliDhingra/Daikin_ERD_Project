@@ -54,4 +54,4 @@ The database is designed to store and manage:
 ### 🚀 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Daikin_ERD_project.git
